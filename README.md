@@ -1,4 +1,4 @@
-# they don't know I'm using nvim with fuzzy finding and tmux (I'm using arch with i3 tiling windows management on my x220 btw) 🚬
+# they don't know I'm using nvim + tmux (I'm using arch with tiling windows management on my librebooted t480 btw) 🚬
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
